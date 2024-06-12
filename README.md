@@ -36,6 +36,8 @@
   - 1 Dense - Output
 
 ### 모델 학습
-- 100 Epochs
+- 150 Epochs
 - 0.0005 Learning Rate
-- 10 Batch Size
+- 16 Batch Size
+- Early Stopping
+- Dropout
